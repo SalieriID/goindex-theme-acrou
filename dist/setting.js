@@ -31,9 +31,10 @@ var themeOptions = {
   video: {
     api: "",
     autoplay: true,
+    settings: ['captions', 'quality', 'speed', 'loop'],
   },
   audio: {
-    autoplay: false,
+    autoplay: ,
   },
 };
 window.gdconfig = JSON.parse(
