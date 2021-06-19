@@ -31,7 +31,6 @@ var themeOptions = {
   video: {
     api: "",
     autoplay: true,
-    settings: ['captions', 'quality', 'speed', 'loop'],
   },
   audio: {
     autoplay: ,
