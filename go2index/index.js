@@ -4,9 +4,9 @@ var authConfig = {
   version: "1.1.2", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
-  client_id: "202264815644.apps.googleusercontent.com",
-  client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  refresh_token: "", // 授权 token
+  client_id: "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com",
+  client_secret: "u5a1CSY5pNjdD2tGTU93TTnI",
+  refresh_token: "1//0gv7-Ayx9y64eCgYIARAAGBASNwF-L9Ir6a1xyiYsANayu55PiTqaBB9GjtiG_tsX41s-1wB8QL-hDuQP8xOn-F-7cSwO8mllbd4", // 授权 token
   /**
    * 设置要显示的多个云端硬盘；按格式添加多个
    * [id]: 可以是 团队盘id、子文件夹id、或者"root"（代表个人盘根目录）；
